@@ -7,3 +7,4 @@ export const images = {
   highlight,
   rankingGradient,
 };
+ 
