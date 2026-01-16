@@ -6,7 +6,7 @@ import { icons } from "@/constants/icons";
 const MovieCard = ({
   id,
   poster_path,
-  title,      
+  title,       
   vote_average,
   release_date, 
 }: Movie) => {
